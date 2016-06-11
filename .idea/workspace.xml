@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f71de641-2e5e-412c-8221-2209053a0e93" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <list id="6d1cc1ea-8977-4cdc-8aa7-be77d60f0125" name="New changelist" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../untitled4/.idea/vcs.xml" />
@@ -351,7 +350,7 @@
       <workItem from="1462964346174" duration="156000" />
       <workItem from="1465638137108" duration="1336000" />
       <workItem from="1465639483749" duration="101000" />
-      <workItem from="1465639595903" duration="1113000" />
+      <workItem from="1465639595903" duration="1135000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1465638950391</created>
@@ -374,11 +373,18 @@
       <option name="project" value="LOCAL" />
       <updated>1465640235914</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Change name site">
+      <created>1465640722284</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1465640722284</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23027000" />
+    <option name="totallyTimeSpent" value="23049000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="57" y="487" width="1309" height="744" extended-state="6" />
@@ -417,7 +423,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="Change name site" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change name site" />
     <option name="PRESELECT_EXISTING_CHANGELIST" value="false" />
   </component>
   <component name="XDebuggerManager">
